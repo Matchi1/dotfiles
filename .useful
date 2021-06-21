@@ -1,0 +1,4 @@
+USEFUL COMMAND
+
+## convert an image to the correct size of the screen ##
+convert -resize $(xdpyinfo | grep dimensions | cut -d\  -f7 | cut -dx -f1) sunshine_forest.png sunshine_forest.png

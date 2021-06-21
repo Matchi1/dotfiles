@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/chan/Documents/L3/semestre_1/Projet_Analyse/ProjetASL3_PINTO_CHAN/src'
+let g:netrw_dirhist_5='/home/chan/Documents/L3/semestre_1/ANALYSE/TD4/exo1'
+let g:netrw_dirhist_4='/home/chan/Documents/L3/semestre_1/ANALYSE/TD4'
+let g:netrw_dirhist_3='/home/chan/Documents/L3/semestre_1/ANALYSE'
+let g:netrw_dirhist_2='/home/chan/Documents/L3/semestre_1'
+let g:netrw_dirhist_1='/home/chan/Documents/L3/semestre_1/Projet_Analyse'
+let g:netrw_dirhist_0='/home/chan/Documents/L3/semestre_1/Projet_Analyse/ProjetASL3_PINTO_CHAN'
+let g:netrw_dirhist_9='/home/chan/Documents/L3/semestre_1/Projet_Analyse/ProjetASL3_PINTO_CHAN/src'
+let g:netrw_dirhist_8='/home/chan/Documents/L3/semestre_1/Projet_Analyse/ProjetASL3_PINTO_CHAN'
+let g:netrw_dirhist_7='/home/chan/Documents/L3/semestre_1/Projet_Analyse'
